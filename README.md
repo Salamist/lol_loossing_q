@@ -4,8 +4,8 @@ Let's try to find out :)
 
 ## To start
 #### Prepare Python stuff
-- Make to have Python 3.6+ installed
-- Create and activate virtual environment (because you know it's good for you)
+- Make sure to have Python 3.6+ installed
+- Create and activate virtual environment (because you know it's good for you ;) )
 - install requirements: `pip intall -r requirements.txt` 
 #### Prepare Riot stuff
 - Go to https://developer.riotgames.com/ 
